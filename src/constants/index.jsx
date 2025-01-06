@@ -138,7 +138,7 @@ export const pricingOptions = [
   },
   {
     features: [
-      { name: "6. K means method", link: "https://k-means-method.streamlit.app/" },
+      { name: "6. KNN", link: "https://k-means-method.streamlit.app/" },
       { name: "7. Gradient Boosting", link: "https://gradient--boosting.streamlit.app/" }
     ],
   },
